@@ -1,0 +1,32 @@
+{
+  "input_csv": "/content/drive/MyDrive/Colab Notebooks/fundus_project/outputs/merged_fundus_features.csv",
+  "features_used_count": 630,
+  "sample_features": [
+    "emb_000",
+    "emb_001",
+    "emb_002",
+    "emb_003",
+    "emb_004",
+    "emb_005",
+    "emb_006",
+    "emb_007",
+    "emb_008",
+    "emb_009",
+    "emb_010",
+    "emb_011",
+    "emb_012",
+    "emb_013",
+    "emb_014",
+    "emb_015",
+    "emb_016",
+    "emb_017",
+    "emb_018",
+    "emb_019"
+  ],
+  "models_trained": [
+    "MLP_small",
+    "FCNN_deep"
+  ],
+  "n_folds": 5,
+  "seed": 42
+}

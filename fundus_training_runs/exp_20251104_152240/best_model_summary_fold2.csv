@@ -1,0 +1,2 @@
+experiment_folder,best_model,best_fold,best_epoch,train_acc,val_acc,train_dice,val_dice,val_macro_f1,val_macro_precision,val_macro_recall,val_macro_dice,test_acc
+/content/drive/MyDrive/Colab Notebooks/fundus_project/outputs/fundus_training_runs/exp_20251104_152240,FCNN_deep,2,28,0.8866,0.8956,0.8836,0.8851,0.8851,0.888,0.8825,0.8851,

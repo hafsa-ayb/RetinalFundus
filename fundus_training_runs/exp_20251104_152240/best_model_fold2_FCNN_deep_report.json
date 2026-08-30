@@ -1,0 +1,41 @@
+{
+  "experiment_folder": "/content/drive/MyDrive/Colab Notebooks/fundus_project/outputs/fundus_training_runs/exp_20251104_152240",
+  "best_model_name": "FCNN_deep",
+  "best_fold": 2,
+  "best_model_path": "/content/drive/MyDrive/Colab Notebooks/fundus_project/outputs/fundus_training_runs/exp_20251104_152240/fold2_FCNN_deep/FCNN_deep_fold2_best.pth",
+  "meta_best_epoch": 28,
+  "val_accuracy": 0.8955895589558955,
+  "val_macro_dice": 0.8850636229418971,
+  "dice_per_class": [
+    0.7112462006079028,
+    0.9641434262948207,
+    0.8648648648648649,
+    1.0
+  ],
+  "confusion_matrix": [
+    [
+      117,
+      2,
+      50,
+      0
+    ],
+    [
+      4,
+      363,
+      12,
+      0
+    ],
+    [
+      39,
+      9,
+      352,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      163
+    ]
+  ]
+}

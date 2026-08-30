@@ -1,0 +1,14 @@
+{
+  "model_name": "MLP_small",
+  "fold": 1,
+  "best_epoch": 23,
+  "best_val_acc": 0.873987398739874,
+  "train_size": 4444,
+  "val_size": 1111,
+  "class_counts_train": {
+    "0": 676,
+    "1": 1516,
+    "2": 1599,
+    "3": 653
+  }
+}
